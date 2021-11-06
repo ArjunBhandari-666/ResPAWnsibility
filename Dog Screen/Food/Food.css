@@ -129,15 +129,17 @@
    }
 
    .foodgif
-   {
-     top:0%;
+   {  
+    position: absolute;
+     top:15%;
      left: 0%;
      width: 100%;
-     height: 100%;
+     height: 90%;
    }
 
    .scrollgif
    {
+    position: absolute;
      width:10%;
      height: 10%;
      left:0%;
