@@ -7,7 +7,7 @@ body {
 .Page {
   width: 100%;
   height: 100%;
-  background: #B6E5FF
+  background: #B6E5FF;
   opacity: 1;
   position: absolute;
   top: 0%;
@@ -23,10 +23,6 @@ body {
   top: 0%;
   left: 0%;
   overflow: hidden;
-}
-.name {
-  color: 
-  #F5FFFE;
 }
 .PetStoriesButton {
   width: 18%;
@@ -56,16 +52,16 @@ body {
   background: rgba(134,240,255,0.30000001192092896);
   opacity: 1;
   position: absolute;
-  top: 1%;
+  top: 2.5%;
   left: 57%;
   border-radius: 50%;
 }
 .ContactUs {
-  width: 20%;
+  width: 100%;
   color: rgba(0,0,0,1);
   position: absolute;
-  top: 3%;
-  left: 56%;
+  top: 20%;
+  left: 0%;
   font-family: Alegreya Sans;
   font-weight: Regular;
   font-size: 36px;
