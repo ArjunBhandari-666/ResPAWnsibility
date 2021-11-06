@@ -30,16 +30,16 @@ body {
   background: rgba(134,240,255,0.30000001192092896);
   opacity: 1;
   position: absolute;
-  top: 1%;
+  top: 2.5%;
   left: 80%;
   border-radius: 50%;
 }
 .PetStories {
-  width: 20%;
+  width: 100%;
   color: rgba(0,0,0,1);
   position: absolute;
-  top: 3%;
-  left: 79%;
+  top: 20%;
+  left: 0%;
   font-family: Alegreya Sans;
   font-weight: Regular;
   font-size: 36px;
@@ -74,16 +74,16 @@ body {
   background: rgba(134,240,255,0.30000001192092896);
   opacity: 1;
   position: absolute;
-  top: 1%;
+  top: 2.5%;
   left: 34%;
   border-radius: 50%;
 }
 .AboutUs {
-  width: 20%;
+  width: 100%;
   color: rgba(0,0,0,1);
   position: absolute;
-  top: 3%;
-  left: 33%;
+  top: 20%;
+  left: 0%;
   font-family: Alegreya Sans;
   font-weight: Regular;
   font-size: 36px;
@@ -101,11 +101,11 @@ body {
   overflow: hidden;
 }
 .Home {
-  width: 20%;
+  width: 100%;
   color: rgba(0,0,0,1);
   position: absolute;
-  top: 4.5%;
-  left: 12.5%;
+  top: 20%;
+  left: 0%;
   font-family: Alegreya Sans;
   font-weight: Regular;
   font-size: 36px;
