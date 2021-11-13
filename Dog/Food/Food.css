@@ -245,9 +245,10 @@ color: #000000;
   .bgcircle
   {
     position: absolute;
-    width:50%;
-    height: 100%;
-    right:80%;
+    width:71%;
+    height: 125%;
+    left: -50%;
+    top: -5%;
     border-radius: 50%;
-    background: red;
+    background: #FFA0F0;
   }
