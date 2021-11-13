@@ -248,4 +248,7 @@ color: #000000;
     width:71%;
     height: 125%;
     left: -50%;
+    top: -5%;
+    border-radius: 50%;
+    background: #FFA0F0;
   }
