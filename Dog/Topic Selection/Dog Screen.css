@@ -162,7 +162,7 @@ body {
   left: 3%;
   font-family: Alegreya Sans;
   font-weight: Regular;
-  font-size: 36px;
+  font-size: 250%;
   opacity: 1;
   text-align: center;
 }
@@ -309,11 +309,23 @@ body {
    left: 2%;
    top: 0.3%;
  }
-
- .GeneralTipsButton:hover {
+.GeneralTipsButton:hover {
   width: 25%;
   height: 10%;
-  background: rgb(86, 19, 241);
-  top: 19%;
+  background: rgb(97, 50, 207);
+  opacity: 1;
+  position: absolute;
+  top: 15.5%;
   left: 69.5%;
+  overflow: hidden;
+}
+.TrainingButton:hover {
+  width: 25%;
+  height: 10%;
+  background: rgb(97, 50, 207);
+  opacity: 1;
+  position: absolute;
+  top: 27.5%;
+  left: 69.5%;
+  overflow: hidden;
 }
