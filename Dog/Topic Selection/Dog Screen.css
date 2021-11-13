@@ -297,27 +297,6 @@ body {
   opacity: 1;
   text-align: center;
 }
-.GOButton {
-  position: absolute;
-  width: 23%;
-  height: 10%;
-  left: 80%;
-  top: 89%;
-  background: #8DEE11;
-  border-radius: 60px;
-}
-.GO {
-  width: 25%;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 91%;
-  left: 88%;
-  font-family: Montserrat Alternates;
-  font-weight: Bold;
-  font-size: 36px;
-  opacity: 1;
-  text-align: left;
-}
 .petspic {
   position: absolute;
    left: 2%;
