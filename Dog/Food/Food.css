@@ -253,6 +253,7 @@ color: #000000;
     background: #FFA0F0;
   }
   .Backimage {
+    position: absolute;
     width: 9%;
     height: 16%;
     top: 49%;
