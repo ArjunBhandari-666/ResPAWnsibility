@@ -247,14 +247,13 @@ color: #000000;
     position: absolute;
     width:71%;
     height: 125%;
-    left: -50%;
-    top: -5%;
+    right:10%;
+    top: 10%;
     border-radius: 50%;
     background: #FFA0F0;
   }
-  .Backimage {
-    width: 9%;
-    height: 16%;
-    top: 49%;
-    left: 8%;
+  .bimg
+  {
+    position: absolute;
+    left:20%;
   }
