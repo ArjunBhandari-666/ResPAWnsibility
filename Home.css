@@ -3,11 +3,13 @@
 }
 body {
   font-size: 14px;
-}
-.Page {
   width: 100%;
   height: 100%;
-  background: #B6E5FF;
+  margin: 0%;
+  width: 100%;
+  height: 100%;
+  margin-right: 0%;
+  background: rgba(182,228,255,1);
   opacity: 1;
   position: absolute;
   top: 0%;
