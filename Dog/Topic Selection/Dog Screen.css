@@ -281,7 +281,7 @@ body {
     opacity: 1;
     text-align: center;
 }
-.DayPlanButton {
+.DailyPlanButton {
   width: 24%;
   height: 9%;
   background: rgba(217,160,251,1);
@@ -291,7 +291,7 @@ body {
   left: 70%;
   overflow: hidden;
 }
-.DayPlan {
+.DailyPlan {
   width: 100%;
   height: 100%;
   color: rgba(0,0,0,1);
