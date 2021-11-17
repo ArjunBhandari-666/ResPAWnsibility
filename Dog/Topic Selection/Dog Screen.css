@@ -376,7 +376,7 @@ body {
   left: 69.5%;
   overflow: hidden;
 }
-.DayPlanButton:hover {
+.DailyPlanButton:hover {
   width: 25%;
   height: 10%;
   background: #E986F9;
