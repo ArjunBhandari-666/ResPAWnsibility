@@ -131,7 +131,7 @@
      width: 100%;
      height: 85%;
    }
-   .foodgif
+   .Dailyplangif
    {  
     position: absolute;
      top:15%;
@@ -156,104 +156,11 @@
     top: 100%;
     left: 0%;
   }
-  .righthalf
-  {
-    width: 50%;
-    height: 100%;
-    background: #00E0FF;
-    opacity: 1;
-    position: absolute;
-    top: 0%;
-    left: 50%;
-  }
-
-  .carrotdog{
+  .Dogschedule{
     position: absolute;
     width: 100%;
-    top:20%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
   }
   
-  .textforlh{
-    position: absolute;
-width: 50%;
-height: 100%;
-left: 0px;
-top: 0px;
-
-font-family: Alegreya Sans;
-font-style: normal;
-font-weight: normal;
-font-size: 40px;
-line-height: 48px;
-display: flex;
-align-items: center;
-text-align: center;
-letter-spacing: 0.09em;
-
-color: #000000;
-}
-.Page3
-{
-    width: 100%;
-    height: 100%;
-    background: #B6E5FF;
-    opacity: 1;
-    position: absolute;
-    top: 200%;
-    left: 0%;
-}
-.lefthalf2
-  {
-    width: 50%;
-    height: 100%;
-    background: #FCD23E;
-    opacity: 1;
-    position: absolute;
-    top: 0%;
-    left: 0%;
-  }
-  .textforrh{
-    position: absolute;
-    width: 50%;
-    height: 100%;
-    left: 50%;
-    top: 0%;
-    font-family: Alegreya Sans;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 40px;
-    line-height: 48px;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    letter-spacing: 0.09em;
-    color: #000000;
-  }
-  .Page4{
-    width: 100%;
-    height: 100%;
-    background: #B6E5FF;
-    opacity: 1;
-    position: absolute;
-    top: 300%;
-    left: 0%;  
-  }
-  .righthalf3{
-    width: 50%;
-    height: 100%;
-    background: #35FF31;
-    opacity: 1;
-    position: absolute;
-    top: 0%;
-    left: 50%;
-  }
-  .bgcircle
-  {
-    position: absolute;
-    width:71%;
-    height: 125%;
-    left: -50%;
-    top: -5%;
-    border-radius: 50%;
-    background: #FFA0F0;
-  }

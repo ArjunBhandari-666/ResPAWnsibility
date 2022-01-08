@@ -167,18 +167,19 @@
     left: 50%;
   }
 
-  .image35.png{
+  .image35{
     position: absolute;
-    width: 100%;
-    top:50%;
+    width: 70%;
+    top:40%;
+    left: 17%;
   }
   
   .textforlh{
     position: absolute;
 width: 50%;
 height: 100%;
-left: 0px;
-top: 0px;
+left: 1%;
+top: 5%;
 
 font-family: Alegreya Sans;
 font-style: normal;
@@ -211,6 +212,12 @@ color: #000000;
     position: absolute;
     top: 0%;
     left: 0%;
+  }
+  .image48{
+    position: absolute;
+    width: 70%;
+    top:20%;
+    left: 17%;
   }
   .textforrh{
     position: absolute;
@@ -257,9 +264,10 @@ color: #000000;
     border-radius: 50%;
     background: #FFA0F0;
   }
-  .image49.png
+  .Image49
   {
     position: absolute;
-    width: 100%;
-    top:50%;  
+    width: 70%;
+    top:35%;
+    left: 17%;  
   }

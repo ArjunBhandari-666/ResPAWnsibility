@@ -1,0 +1,397 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    font-size: 14px;
+    overflow: scroll;
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+  .Page1 {
+    width: 100%;
+    height: 100%;
+    background: rgba(245,255,254,1);
+    opacity: 1;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+  }
+  .HeaderBackground {
+    width: 100%;
+    height: 15%;
+    background: rgba(200,241,254,1);
+    opacity: 1;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    overflow: hidden;
+  }
+  .name {
+    color: 
+    #F5FFFE;
+  }
+  .PetStoriesButton {
+    width: 18%;
+    height: 10%;
+    background: rgba(134,240,255,0.30000001192092896);
+    opacity: 1;
+    position: absolute;
+    top: 1%;
+    left: 80%;
+    border-radius: 50%;
+  }
+  .PetStories {
+    width: 20%;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 3%;
+    left: 79%;
+    font-family: Alegreya Sans;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: center;
+  }
+  .ContactUsButton {
+    width: 18%;
+    height: 10%;
+    background: rgba(134,240,255,0.30000001192092896);
+    opacity: 1;
+    position: absolute;
+    top: 1%;
+    left: 57%;
+    border-radius: 50%;
+  }
+  .ContactUs {
+    width: 20%;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 3%;
+    left: 56%;
+    font-family: Alegreya Sans;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: center;
+  }
+  .AboutUsButton {
+    width: 18%;
+    height: 10%;
+    background: rgba(134,240,255,0.30000001192092896);
+    opacity: 1;
+    position: absolute;
+    top: 1%;
+    left: 34%;
+    border-radius: 50%;
+  }
+  .AboutUs {
+    width: 20%;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 3%;
+    left: 33%;
+    font-family: Alegreya Sans;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: center;
+  }
+  .HomeButton {
+    width: 14%;
+    height: 11%;
+    background: rgba(156,230,234,1);
+    opacity: 1;
+    position: absolute;
+    top: 2%;
+    left: 15.5%;
+    overflow: hidden;
+  }
+  .Home {
+    width: 20%;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 4.5%;
+    left: 12.5%;
+    font-family: Alegreya Sans;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: center;
+  }
+  .petspic {
+    position: absolute;
+     left: 2%;
+     top: 0.3%;
+   }
+   .bggifs
+   {
+     width: 100%;
+     height: 85%;
+   }
+   .Hygienegif
+   {  
+    position: absolute;
+     top:0%;
+     left: 0%;
+     width: 100%;
+     height: 100%;
+   }
+   .scrollgif
+   {
+    position: absolute;
+     width:30%;
+     height: 39%;
+     left:70%;
+     top:61%;
+   }
+   .Page2 {
+    width: 100%;
+    height: 100%;
+    background: #80D1FF;
+    opacity: 1;
+    position: absolute;
+    top: 100%;
+    left: 0%;
+  }
+  .righthalf
+  {
+    width: 50%;
+    height: 100%;
+    background: #AABDFF;
+    opacity: 1;
+    position: absolute;
+    top: 0%;
+    left: 50%;
+  }
+
+  .image35{
+    position: absolute;
+    width: 70%;
+    top:40%;
+    left: 17%;
+  }
+  
+  .textforlh{
+    position: absolute;
+width: 50%;
+height: 100%;
+left: 1%;
+top: 5%;
+
+font-family: Alegreya Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 48px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.09em;
+
+color: #000000;
+}
+.Page3
+{
+    width: 100%;
+    height: 100%;
+    background: #AABDFF;
+    opacity: 1;
+    position: absolute;
+    top: 200%;
+    left: 0%;
+}
+.lefthalf2
+  {
+    width: 50%;
+    height: 100%;
+    background: #80D1FF;
+    opacity: 1;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+  }
+  .image34{
+    position: absolute;
+    width: 70%;
+    top:30%;
+    left: 17%;
+  }
+  .textforrh{
+    position: absolute;
+    width: 50%;
+    height: 100%;
+    left: 50%;
+    top: 0%;
+    font-family: Alegreya Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 48px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.09em;
+    color: #000000;
+  }
+  .Page4{
+    width: 100%;
+    height: 100%;
+    background: #80D1FF;
+    opacity: 1;
+    position: absolute;
+    top: 300%;
+    left: 0%;  
+  }
+  .righthalf3{
+    width: 50%;
+    height: 100%;
+    background: #AABDFF;
+    opacity: 1;
+    position: absolute;
+    top: 0%;
+    left: 50%;
+  }
+  .bgcircle
+  {
+    position: absolute;
+    width:71%;
+    height: 125%;
+    left: -50%;
+    top: -5%;
+    border-radius: 50%;
+    background: #FFA0F0;
+  }
+  .Image33
+  {
+    position: absolute;
+    width: 70%;
+    top:35%;
+    left: 17%;  
+  }
+  .Page5{
+    width: 100%;
+    height: 100%;
+    background: #80D1FF;
+    opacity: 1;
+    position: absolute;
+    top: 400%;
+    left: 0%;  
+  }
+  .righthalf4{
+    width: 50%;
+    height: 100%;
+    background: #AABDFF;
+    opacity: 1;
+    position: absolute;
+    top: 0%;
+    left: 50%;
+  }
+  .textforlh{
+    position: absolute;
+width: 50%;
+height: 100%;
+left: 0%;
+top: 5%;
+  }
+  .Image32{
+    position: absolute;
+    width: 70%;
+    top:35%;
+    left: 17%;    
+  }
+  .Page6{
+    width: 100%;
+    height: 100%;
+    background: #80D1FF;
+    opacity: 1;
+    position: absolute;
+    top: 500%;
+    left: 0%;  
+  }
+  .righthalf5{
+    width: 50%;
+    height: 100%;
+    background: #AABDFF;
+    opacity: 1;
+    position: absolute;
+    top: 0%;
+    left: 50%;
+  }
+  .textforlh{
+    position: absolute;
+width: 50%;
+height: 100%;
+left: 0%;
+top: 5%;
+  }
+  .Image31{
+    position: absolute;
+    width: 70%;
+    top:35%;
+    left: 17%;    
+  }
+  .Page7{
+    width: 100%;
+    height: 100%;
+    background: #80D1FF;
+    opacity: 1;
+    position: absolute;
+    top: 600%;
+    left: 0%;  
+  }
+  .righthalf6{
+    width: 50%;
+    height: 100%;
+    background: #AABDFF;
+    opacity: 1;
+    position: absolute;
+    top: 0%;
+    left: 50%;
+  }
+  .textforlh{
+    position: absolute;
+width: 50%;
+height: 100%;
+left: 0%;
+top: 5%;
+  }
+  .Image30{
+    position: absolute;
+    width: 70%;
+    top:30%;
+    left: 17%;    
+  }
+  .Page8{
+    width: 100%;
+    height: 100%;
+    background: #80D1FF;
+    opacity: 1;
+    position: absolute;
+    top: 700%;
+    left: 0%;  
+  }
+  .righthalf7{
+    width: 50%;
+    height: 100%;
+    background: #AABDFF;
+    opacity: 1;
+    position: absolute;
+    top: 0%;
+    left: 50%;
+  }
+  .textforlh{
+    position: absolute;
+width: 50%;
+height: 100%;
+left: 0%;
+top: 5%;
+  }
+  .Image29{
+    position: absolute;
+    width: 45%;
+    top:30%;
+    left: 25%;    
+  }
