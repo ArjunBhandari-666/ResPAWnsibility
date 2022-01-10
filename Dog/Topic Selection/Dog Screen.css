@@ -56,16 +56,9 @@ body {
   background: rgba(134,240,255,0.30000001192092896);
   opacity: 1;
   position: absolute;
-  top: 2.5%;
+  top: 1%;
   left: 80%;
   border-radius: 50%;
-}
-.PetStories {
-  width: 100%;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 20%;
-  left: 0%;
   font-family: Alegreya Sans;
   font-weight: Regular;
   font-size: 36px;
@@ -78,16 +71,9 @@ body {
   background: rgba(134,240,255,0.30000001192092896);
   opacity: 1;
   position: absolute;
-  top: 2.5%;
+  top: 1%;
   left: 57%;
   border-radius: 50%;
-}
-.ContactUs {
-  width: 100%;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 20%;
-  left: 0%;
   font-family: Alegreya Sans;
   font-weight: Regular;
   font-size: 36px;
@@ -100,16 +86,9 @@ body {
   background: rgba(134,240,255,0.30000001192092896);
   opacity: 1;
   position: absolute;
-  top: 2.5%;
+  top: 1%;
   left: 34%;
   border-radius: 50%;
-}
-.AboutUs {
-  width: 100%;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 20%;
-  left: 0%;
   font-family: Alegreya Sans;
   font-weight: Regular;
   font-size: 36px;
@@ -125,13 +104,6 @@ body {
   top: 2%;
   left: 15.5%;
   overflow: hidden;
-}
-.Home {
-  width: 100%;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 20%;
-  left: 0%;
   font-family: Alegreya Sans;
   font-weight: Regular;
   font-size: 36px;
