@@ -107,7 +107,7 @@
     width: 42%;
     color: rgba(0,0,0,1);
     position: absolute;
-    top: 37%;
+    top: 27%;
     left: 45%;
     font-family: Alegreya Sans;
     font-weight: Regular;
@@ -168,12 +168,12 @@
   }
   .dogpic {
     position: absolute;
-    left:15%;
+    left:25%;
     top:40%; 
   }
   .catpic {
     position: absolute;
-    right: -40%;
+    right: -30%;
     top: 40%;
   }
   .petspic {
@@ -187,7 +187,7 @@
     width: 17%;
     height: 7%;
     top: 67%;
-    left: 15%;
+    left: 25%;
     background-color: #90FACD;
   }
   .CatButton {
@@ -196,6 +196,6 @@
     width: 17%;
     height: 7%;
     top: 67%;
-    left: 95%;
+    left: 85%;
     background-color: #90FACD;
   }
