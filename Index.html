@@ -3,10 +3,17 @@
 <html>
 
     <head>
-
-        <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans&display=swap" rel="stylesheet" />
-
-        <link href="Home.css" rel="stylesheet" />
+        <script>
+            var link=document.createElement('link');
+            link.rel="stylesheet"
+            var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+            if (isMobile) {
+                link.href="mobile.css"
+            } else {
+                link.href="Home.css"
+            }
+            document.getElementsByTagName('head')[0].appendChild(link);
+        </script>
 
         <title>Res-Paw-nsibilities</title>
 
