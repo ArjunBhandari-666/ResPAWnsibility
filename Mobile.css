@@ -22,7 +22,7 @@
     user-select: none;
   }
   .HeaderBackground {
-    width: 100%;
+    width: 120%;
     height: 15%;
     background: rgba(200,241,254);
     opacity: 1;
@@ -38,7 +38,7 @@
     opacity: 1;
     position: absolute;
     top: 1%;
-    left: 80%;
+    left: 100%;
     border-radius: 50%;
     font-family: Alegreya Sans;
     font-weight: Regular;
@@ -53,7 +53,7 @@
     opacity: 1;
     position: absolute;
     top: 1%;
-    left: 57%;
+    left: 70%;
     border-radius: 50%;
     font-family: Alegreya Sans;
     font-weight: Regular;
@@ -68,7 +68,7 @@
     opacity: 1;
     position: absolute;
     top: 1%;
-    left: 34%;
+    left: 40%;
     border-radius: 50%;
     font-family: Alegreya Sans;
     font-weight: Regular;
@@ -96,7 +96,7 @@
     color: rgba(0,0,0,1);
     position: absolute;
     top: 18%;
-    left: 0%;
+    left: 10%;
     font-family: Alegreya Sans;
     font-weight: Bold;
     font-size: 64px;
@@ -108,14 +108,14 @@
     color: rgba(0,0,0,1);
     position: absolute;
     top: 37%;
-    left: 29%;
+    left: 35%;
     font-family: Alegreya Sans;
     font-weight: Regular;
     font-size: 36px;
     opacity: 1;
     text-align: center;
   }
-  .Thiswayyouwon’tfeellost {
+  .Thiswayyouwontfeellost {
     width: 42%;
     color: rgba(0,0,0,1);
     position: absolute;
@@ -168,15 +168,13 @@
   }
   .dogpic {
     position: absolute;
-    padding-right: 10% ;
-    padding-left: 10%;
-    left:0%;
-    top:20%; 
+    left:15%;
+    top:40%; 
   }
   .catpic {
     position: absolute;
-    right: -11%;
-    top: 23%;
+    right: -30%;
+    top: 40%;
   }
   .petspic {
    position: absolute;
@@ -189,7 +187,7 @@
     width: 17%;
     height: 7%;
     top: 67%;
-    left: 9%;
+    left: 15%;
     background-color: #90FACD;
   }
   .CatButton {
@@ -198,6 +196,6 @@
     width: 17%;
     height: 7%;
     top: 67%;
-    left: 76%;
+    left: 85%;
     background-color: #90FACD;
   }
