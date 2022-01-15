@@ -22,7 +22,7 @@
     user-select: none;
   }
   .HeaderBackground {
-    width: 120%;
+    width: 130%;
     height: 15%;
     background: rgba(200,241,254);
     opacity: 1;
@@ -38,7 +38,7 @@
     opacity: 1;
     position: absolute;
     top: 1%;
-    left: 100%;
+    left: 110%;
     border-radius: 50%;
     font-family: Alegreya Sans;
     font-weight: Regular;
@@ -53,7 +53,7 @@
     opacity: 1;
     position: absolute;
     top: 1%;
-    left: 70%;
+    left: 75%;
     border-radius: 50%;
     font-family: Alegreya Sans;
     font-weight: Regular;
@@ -68,7 +68,7 @@
     opacity: 1;
     position: absolute;
     top: 1%;
-    left: 40%;
+    left:40%;
     border-radius: 50%;
     font-family: Alegreya Sans;
     font-weight: Regular;
@@ -96,7 +96,7 @@
     color: rgba(0,0,0,1);
     position: absolute;
     top: 18%;
-    left: 10%;
+    left: 17.5%;
     font-family: Alegreya Sans;
     font-weight: Bold;
     font-size: 64px;
@@ -108,7 +108,7 @@
     color: rgba(0,0,0,1);
     position: absolute;
     top: 37%;
-    left: 35%;
+    left: 45%;
     font-family: Alegreya Sans;
     font-weight: Regular;
     font-size: 36px;
@@ -173,7 +173,7 @@
   }
   .catpic {
     position: absolute;
-    right: -30%;
+    right: -40%;
     top: 40%;
   }
   .petspic {
@@ -196,6 +196,6 @@
     width: 17%;
     height: 7%;
     top: 67%;
-    left: 85%;
+    left: 95%;
     background-color: #90FACD;
   }
