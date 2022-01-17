@@ -57,13 +57,21 @@ body {
   opacity: 1;
   position: absolute;
   top: 1%;
-  left: 80%;
+  left: 79%;
   border-radius: 50%;
+}
+.ContactUs {
+  width: 20%;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 3%;
+  left: 56%;
   font-family: Alegreya Sans;
   font-weight: Regular;
   font-size: 36px;
-  opacity: 1;
-  text-align: center;
+  top: 1%;
+  left: 34%;
+  border-radius: 50%;
 }
 .ContactUsButton {
   width: 18%;
@@ -74,6 +82,13 @@ body {
   top: 1%;
   left: 57%;
   border-radius: 50%;
+}
+.AboutUs {
+  width: 20%;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 3%;
+  left: 33%;
   font-family: Alegreya Sans;
   font-weight: Regular;
   font-size: 36px;
@@ -89,11 +104,6 @@ body {
   top: 1%;
   left: 34%;
   border-radius: 50%;
-  font-family: Alegreya Sans;
-  font-weight: Regular;
-  font-size: 36px;
-  opacity: 1;
-  text-align: center;
 }
 .HomeButton {
   width: 14%;
