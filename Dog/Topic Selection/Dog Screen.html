@@ -4,11 +4,17 @@
 
     <head>
 
-        <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans&display=swap" rel="stylesheet" />
-        
-        <link href="https://fonts.googleapis.com/css?family=Montserrat+Alternates&display=swap" rel="stylesheet" />
-        
-        <link href="Dog Screen.css" rel="stylesheet" />
+        <script>
+            var link=document.createElement('link');
+            link.rel="stylesheet"
+            var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+            if (isMobile) {
+                link.href="Mobile Dog Screen.css"
+            } else {
+                link.href="Dog Screen.css"
+            }
+            document.getElementsByTagName('head')[0].appendChild(link);
+        </script>
         
         <title>Dog Screen</title>
     
