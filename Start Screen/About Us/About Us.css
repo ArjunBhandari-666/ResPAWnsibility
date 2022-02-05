@@ -133,27 +133,34 @@
     position: absolute;
     width: 17.3%;
     height: 30.4%;
-    left: 0.5%;
-    top: 50%;
+    left: 5%;
+    top: 16.4%;
   }
   .Briefcaseimage{
     position: absolute;
     width: 17.3%;
     height: 30.4%;
     left: 75.9%;
-    top: 19.6%;
+    top: 16.4%;
   }
   .Browserimage{
     position: absolute;
     width: 17.3%;
     height: 30.4%;
-    left: 0.2%;
-    top: 59.6%;
+    left: 3%;
+    top: 67.5%;
   }
   .Speechcircleimage{
     position: absolute;
     width: 17.3%;
     height: 30.4%;
     left: 75.9%;
-    top: 57.4%;
+    top: 67.5%;
   }
+  .Trusityimage{
+    position: absolute;
+    width: 40%;
+    height: 44.2%;
+    left: 30.9%;
+    top: 52.6%;
+  } 
