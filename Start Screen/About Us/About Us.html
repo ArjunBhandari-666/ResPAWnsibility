@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+        <script>
+            var link=document.createElement('link');
+            link.rel="stylesheet"
+            var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+            if (isMobile) {
+                link.href="About Us Mobile.css"
+            } else {
+                link.href="About Us.css"
+            }
+            document.getElementsByTagName('head')[0].appendChild(link);
+        </script>
+
+        <title>Res-Paw-nsibilities</title>
+
+    </head>
+
+    <body>
+        <div class="header">
+            <div class="HeaderBackground"></div>
+
+            <span class="petspic"><img src="https://www.kidsworldfun.com/images/poems/dog-and-cat-cartoon.png" width="25%" height="25%"></span>
+
+            <div class="HomeButton"  class="Home" onclick="window.location.href='../../Index.html'">Home</div>
+
+            <div class="PetStoriesButton"><span class="PetStories" onclick="window.location.href='../../Start Screen/Pet Stories/Pet Stories.html'">Pet Stories</span></div>
+        
+            <div class="ContactUsButton"><span class="ContactUs" onclick="window.location.href='../../Start Screen/Contact Us/Contact Us.html'">Contact Us</span></div>
+
+            <div class="AboutUsButton"><span class="AboutUs" onclick="window.location.href='../../Start Screen/About Us/About Us.html'">About Us</span></div>
+
+        </div>
+
+        <div class="text">
+            <span class="WhoAreWe">Who Are We?
+                This website was made by a student named Aarush Anand while he was undergoing a course to learn web developement, communication skills and entreurpreneurship skills. He was helped by his instructors to create this website. </span>
+        </div>
+
+        <div class="images">
+            <span class="Person with plus image"><img src="Person with plus.png"></span>
+            <span class="Briefcase image"><img src="briefcase.png"></span>
+            <span class="Browser image"><img src="browser.png"></span>
+            <span class="Speech circle image"><img src="speech circle.png"></span>
+        
+      
+    </body>
+
+</html>
