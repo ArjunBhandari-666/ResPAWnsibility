@@ -117,50 +117,50 @@
     left: 2%;
     top: 0.3%;
   }
-  .WhoAreWe{
+  .Howwillyoureachus{
   width: 42%;
   color: rgba(0,0,0,1);
   position: absolute;
-  top: 25%;
-  left: 29%;
+  top: 20%;
+  left: 30%;
   font-family: Alegreya Sans;
   font-weight: Regular;
   font-size: 36px;
   opacity: 1;
   text-align: center;
   }
-  .Personwithplusimage{
+  .Emailicon{
     position: absolute;
     width: 17.3%;
     height: 30.4%;
     left: 5%;
     top: 16.4%;
   }
-  .Briefcaseimage{
+  .Shareicon{
     position: absolute;
     width: 17.3%;
     height: 30.4%;
     left: 75.9%;
     top: 16.4%;
   }
-  .Browserimage{
+  .Chaticon{
     position: absolute;
     width: 17.3%;
     height: 30.4%;
     left: 3%;
     top: 67.5%;
   }
-  .Speechcircleimage{
+  .Micicon{
     position: absolute;
     width: 17.3%;
     height: 30.4%;
     left: 75.9%;
     top: 67.5%;
   }
-  .Trusityimage{
+  .Emailimage{
     position: absolute;
     width: 60%;
     height: 64.2%;
-    left: 42.5%;
+    left: 40%;
     top: 62.5%;
   } 
