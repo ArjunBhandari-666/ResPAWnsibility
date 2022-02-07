@@ -22,7 +22,7 @@
     user-select: none;
   }
   .HeaderBackground {
-    width: 100%;
+    width: 105%;
     height: 15%;
     background: rgba(200,241,254);
     opacity: 1;
@@ -49,7 +49,7 @@
     opacity: 1;
     position: absolute;
     top: 1%;
-    left: 79%;
+    left: 84%;
     border-radius: 50%;
   }
   .ContactUs {
@@ -72,7 +72,7 @@
     opacity: 1;
     position: absolute;
     top: 1%;
-    left: 57%;
+    left: 58.5%;
     border-radius: 50%;
   }
   .AboutUs {
