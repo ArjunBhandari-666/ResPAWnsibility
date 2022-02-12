@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+        <script>
+            var link=document.createElement('link');
+            link.rel="stylesheet"
+            var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+            if (isMobile) {
+                link.href="Mobile Pet Stories.css"
+            } else {
+                link.href="Pet Stories.css"
+            }
+            document.getElementsByTagName('head')[0].appendChild(link);
+        </script>
+
+        <title>Pet Stories</title>
+
+    </head>
+
+    <body>
+        <div class="header">
+            <div class="HeaderBackground"></div>
+
+            <span class="petspic"><img src="https://www.kidsworldfun.com/images/poems/dog-and-cat-cartoon.png" width="25%" height="25%"></span>
+
+            <div class="HomeButton"  class="Home" onclick="window.location.href='../../Index.html'">Home</div>
+
+            <div class="PetStoriesButton"><span class="PetStories" onclick="window.location.href='../../Start Screen/Pet Stories/Pet Stories.html'">Pet Stories</span></div>
+        
+            <div class="ContactUsButton"><span class="ContactUs" onclick="window.location.href='../../Start Screen/Contact Us/Contact Us.html'">Contact Us</span></div>
+
+            <div class="AboutUsButton"><span class="AboutUs" onclick="window.location.href='../../Start Screen/About Us/About Us.html'">About Us</span></div>
+
+        </div>
+
+        <div class="text">
+            <span class="Herearesomestoriespets">Here are some stories of people and their pets:</span>
+        </div>
+
+        <div class="squares">
+            <div class="squareforlh"><span class="textforlh">I had just adopted my new puppy and I was completely clueless. I had no idea how much food to give him or what to do with him. I did the natural thing and googled it. Then I found out about Respawnsibilities. I read throught the website then I learned what to do. Without Respawnsibilities I still wouldn’t know what to do with my puppy. </span></div>
+            <div class="squareforrh"><span class="textforrh">I have a cat. I have had my cat for a couple of weeks now and I’m still kind of unclear on how to take care of him. Then finially one day, I searched online for a website to help me to take care of my cat. Without Respawnsibilities I would probably be giving my cat steak dinners and giving him baths twice a day, but thanks to Respawnsibilities. I know what to do. </span></div>
+        </div>
+        
+       </body>
+
+</html>
