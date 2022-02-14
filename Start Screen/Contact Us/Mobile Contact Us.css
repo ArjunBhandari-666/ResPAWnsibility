@@ -129,6 +129,18 @@
   opacity: 1;
   text-align: center;
   }
+  .Emailid{
+    width: 30%;
+    color: rgba(0,0,0,1);
+    position:absolute;
+    top: 60%;
+    left: 35%;
+    font-family: Alegreya Sans;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: center;
+  }
   .Emailicon{
     position: absolute;
     width: 17.3%;
@@ -162,5 +174,5 @@
     width: 60%;
     height: 64.2%;
     left: 40%;
-    top: 62.5%;
+    top: 72.5%;
   } 
