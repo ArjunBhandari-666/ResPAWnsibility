@@ -122,7 +122,7 @@
   color: rgba(0,0,0,1);
   position: absolute;
   top: 20%;
-  left: 30%;
+  left: 32.5%;
   font-family: Alegreya Sans;
   font-weight: Regular;
   font-size: 36px;
@@ -134,7 +134,7 @@
     color: rgba(0,0,0,1);
     position:absolute;
     top: 60%;
-    left: 35%;
+    left: 32.5%;
     font-family: Alegreya Sans;
     font-weight: Regular;
     font-size: 36px;
@@ -173,6 +173,6 @@
     position: absolute;
     width: 60%;
     height: 64.2%;
-    left: 40%;
+    left: 37.5%;
     top: 72.5%;
   } 
